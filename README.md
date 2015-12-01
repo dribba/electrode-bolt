@@ -6,11 +6,11 @@ The `electrode-bolt` repository is home of multiple packages that belong to the 
 
 ### `electrode-bolt` suite
 
-[packages/electrode-bolt]() is the meta-task runner's core, which includes `webpack`, `eslint`, `karma`, `mocha` and `chai`.
+[packages/electrode-bolt](packages/electrode-bolt) is the meta-task runner's core, which includes `webpack`, `eslint`, `karma`, `mocha` and `chai`.
 
-[packages/electrode-bolt-cli]() is the thin globally installed CLI runner that allows a developer to run `bolt` commands by providing access to the project's locally installed `electrode-bolt` instance.
+[packages/electrode-bolt-cli](packages/electrode-bolt-cli) is the thin globally installed CLI runner that allows a developer to run `bolt` commands by providing access to the project's locally installed `electrode-bolt` instance.
 
-[packages/bolt-standard-flux]() is a `bolt-standard` configuration set for apps, which deviates slightly from a component library configuration set.
+[packages/bolt-standard-flux](packages/bolt-standard-flux) is a `bolt-standard` configuration set for apps, which deviates slightly from a component library configuration set.
 
 [packages/bolt-standard-component-lib]() is a work in progress and an attempt to abstract what's unique about component libraries out into their own `bolt-standard` configuration set, rather than having them live in the `electrode-bolt` package.
 
