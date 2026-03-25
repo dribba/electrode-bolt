@@ -73,7 +73,7 @@
     "istanbul": "^0.3.18",
     "json-loader": "^0.5.3",
     "jsonfile": "^2.2.2",
-    "karma": "^0.13.9",
+    "karma": "^6.4.4",
     "karma-chrome-launcher": "^0.2.0",
     "karma-coverage": "^0.4.2",
     "karma-firefox-launcher": "^0.1.6",
@@ -88,10 +88,10 @@
     "karma-sinon-chai": "^1.0.0",
     "karma-spec-reporter": "0.0.20",
     "karma-webpack": "^1.7.0",
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.23",
     "mkdirp": "^0.5.1",
     "mocha": "^2.3.3",
-    "phantomjs": "^1.9.18",
+    "phantomjs": "^2.1.7",
     "raw-loader": "^0.5.1",
     "react": "^0.14.0",
     "react-addons-test-utils": "^0.14.0",
@@ -105,7 +105,7 @@
     "stylus-loader": "^1.2.1",
     "url-loader": "^0.5.6",
     "webpack": "^1.11.0",
-    "webpack-dev-server": "^1.10.1"
+    "webpack-dev-server": "^5.2.3"
   },
   "devDependencies": {
     "html-webpack-plugin": "^1.6.1",
